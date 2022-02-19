@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodOrdersBootcamp</string>
+    <string name="splashtext1">iz-in</string>
+    <string name="splashtext2">days</string>
+    <string name="iz_indays">iz-indays</string>
+    <string name="no_product">Sepetinizde\n ürün bulunmamaktadır.</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/anasayfaFragment"
+        android:icon="@drawable/ic_homepage_icon"
+        android:title="Anasayfa" />
+
+    <item
+        android:id="@+id/yemekSepetFragment"
+        android:icon="@drawable/ic_shopping_card_icon"
+        android:title="Sepet" />
+</menu>
